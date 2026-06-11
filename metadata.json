@@ -1,0 +1,6 @@
+{
+  "name": "纪念日时光机",
+  "description": "一个简洁极富设计感、UI互动有趣的动态纪念日历，包含精美刻度盘时光轴与专趣味特效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
